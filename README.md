@@ -15,6 +15,13 @@
 打开html文件，将所有'/static...' 前面的'/'去掉，保存！  
 ![img](https://github.com/szjzszjz/szjzszjz.github.io/blob/master/pic/04.png)  
 将static, index.html文件复制粘贴至'username'.github.io文件夹下  
-### 4、提交至远程仓库
+### 4、提交至远程仓库  
+(1) 桌面工具提交  
+(2) 'username'.github.io`文件夹下命令行提交  
+```
+git add .
+git commit -m '提交日志'
+git push
+```
 ### 5、访问刚刚搭建的网站  
 输入：`https://szjzszjz.github.io/`  
