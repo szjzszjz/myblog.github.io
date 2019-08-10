@@ -24,4 +24,5 @@ git commit -m '提交日志'
 git push
 ```
 ### 5、访问刚刚搭建的网站  
+访问条件：浏览器必须翻墙可以访问国外的服务器，因为firebase在国内无法访问，VPN可选择使用免费且好用的Hoxx VPN  
 输入：`https://szjzszjz.github.io/`  
